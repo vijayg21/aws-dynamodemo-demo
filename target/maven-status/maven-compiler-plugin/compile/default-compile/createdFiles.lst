@@ -1,0 +1,4 @@
+demo\model\InputModel.class
+demo\Test.class
+demo\lambda\LambdaFunctionHandler.class
+demo\service\EmailService.class
